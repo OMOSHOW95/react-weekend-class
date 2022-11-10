@@ -1,0 +1,19 @@
+.card-wrap1{
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+
+.card-id1{
+    border: solid;
+    margin: 30px;
+}
+
+.card-id1 img{
+    width: 200px;
+    border-radius: 100%;
+    margin-right:140px;
+    margin-top: 10px;
+
+}

@@ -1,0 +1,19 @@
+.test{
+    width: 50%;
+    margin: 10px auto;
+    border: solid;
+    box-shadow: 1px 2px 3px;
+    padding: 20px;
+    text-align: justify;
+}
+
+.text-con{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.text-con img{
+    width: 100px;
+    height: 100px;
+}
